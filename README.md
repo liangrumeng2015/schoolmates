@@ -2,7 +2,7 @@
 schoolMates
 # 安装koa
 >npm install koa --save
-#启动服务
+`启动服务`
 >node app.js
 supervisor app.js
 
